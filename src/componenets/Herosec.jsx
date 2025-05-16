@@ -3,7 +3,7 @@ import React from "react";
 const Herosec = () => {
   const ClubTornaments = "Welcom to FC Barcelona Club";
   return (
-    <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-10">
+    <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-50">
       <h1 className="text-white font-bold text-7xl   mx-8 text-shadow-lg/30 leading-[1.3] ... ">
         Welcome To <br />
         FC Barcelona <br />
